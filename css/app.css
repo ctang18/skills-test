@@ -1,0 +1,50 @@
+body {
+
+  margin: 0px;
+
+}
+
+.header {
+
+  height: 150px;
+  background-color: #16a9e2;
+
+}
+
+.header-link {
+
+  color: white;
+
+}
+
+.content {
+
+  height: 300px;
+
+}
+
+.hidden {
+
+  display: none;
+
+}
+
+.footer {
+
+  height: 200px;
+  background-color: #000;
+
+}
+
+.footer-links {
+
+  display: block;
+
+}
+
+.footer-link {
+
+  color: #FFF;
+  display: block;
+
+}
